@@ -12,10 +12,10 @@
 |网页公共命名||网页公共命名||
 |:--|:--|:--|:--|
 |wrapper|页面外围控制整体布局宽度|m-0|margin:0|
-|container或content|容器,用于最外层|m-1|margin:8px|
+|container|容器,用于最外层|m-1|margin:8px|
 |layout|布局|m-2|margin:16px|
-|head, header|页头部分|m-3|margin:24px|
-|foot, footer|页脚部分|m-4|margin:32px|
+|header|页头部分|m-3|margin:24px|
+|footer|页脚部分|m-4|margin:32px|
 |nav|主导航|m-5|margin:40px|
 |subnav|二级导航|m[t\|b\|l\|r]-[0-5]|eg:margin-left:'x'px
 |menu|菜单|p-0|padding:0|
@@ -25,18 +25,15 @@
 |main|页面主体|p-4|padding:32px|
 |tag|标签|p-5|padding:40px|
 |msg|提示信息|p[t\|b\|l\|r]-[0-5]|eg:padding-left:'x'px
-|tips|小技巧|
-|vote|投票|
-|friendlink|友情连接|
-|title|标题|
-|summary|摘要|
-|loginbar|登录条|
-|searchInput|搜索输入框|
-|hot|热门热点|
-|search|搜索|
-|searchOutput|搜索输出和搜索结果相似|
-|searchBar|搜索条|
-|searchResults|搜索结果|
+|tips|小技巧|text-left|text-align:left
+|vote|投票|text-center|text-align:center
+|friendlink|友情连接|text-right|text-align:right
+|title|标题|left|float:left
+|summary|摘要|right|float:right
+|loginbar|登录条|clearfix|清除浮动
+|searchInput|搜索输入框|hot|热门热点|
+|search|搜索|searchOutput|搜索输出和搜索结果相似|
+|searchBar|搜索条|searchResults|搜索结果|
 |copyright|版权信息|
 |branding|商标|
 |logo|网站LOGO标志|
