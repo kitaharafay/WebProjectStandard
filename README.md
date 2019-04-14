@@ -9,22 +9,22 @@
 ---
 ### CSS样式命名
 
-|网页公共命名||
-|:--|:--|
-|wrapper|页面外围控制整体布局宽度|
-|container或content|容器,用于最外层|
-|layout|布局|
-|head, header|页头部分|
-|foot, footer|页脚部分|
-|nav|主导航|
-|subnav|二级导航|
-|menu|菜单|
-|submenu|子菜单|
-|sideBar|侧栏|
-|leftSidebar, rightSidebar|左边栏或右边栏|
-|main|页面主体|
-|tag|标签|
-|msg|提示信息|
+|网页公共命名||网页公共命名||
+|:--|:--|:--|:--|
+|wrapper|页面外围控制整体布局宽度|m-0|margin:0|
+|container或content|容器,用于最外层|m-1|margin:8px|
+|layout|布局|m-2|margin:16px|
+|head, header|页头部分|m-3|margin:24px|
+|foot, footer|页脚部分|m-4|margin:32px|
+|nav|主导航|m-5|margin:40px|
+|subnav|二级导航|m[t\|b\|l\|r]-[0-5]|eg:margin-left:'x'px
+|menu|菜单|p-0|padding:0|
+|submenu|子菜单|p-1|padding:8px|
+|sideBar|侧栏|p-2|padding:16px|
+|leftSidebar, rightSidebar|左边栏或右边栏|p-3|padding:24px|
+|main|页面主体|p-4|padding:32px|
+|tag|标签|p-5|padding:40px|
+|msg|提示信息|p[t\|b\|l\|r]-[0-5]|eg:padding-left:'x'px
 |tips|小技巧|
 |vote|投票|
 |friendlink|友情连接|
@@ -58,7 +58,6 @@
 |dorpmenu|下拉菜单|
 |status|状态|
 |scroll|滚动|
-|left center right |居左、中、右|
 |news|新闻|
 |download|下载|
 |banner|广告条(顶部广告条)|
