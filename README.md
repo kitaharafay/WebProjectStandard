@@ -69,14 +69,5 @@
 |faqs|常见问题|
 |blog|博客|
 |forum|论坛|
-|CSS文件命名|说明|
-|master.css|主要的|
-|base.css|基本共用|
-|layout.css|布局，版面|
-|themes.css|主题|
-|font.css|文字、字体|
-|forms.css|表单|
-|mend.css|补丁|
-|columns.css|专栏|
-|print.css|打印|
+
 
