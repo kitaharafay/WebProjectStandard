@@ -1,13 +1,19 @@
 ## WebProjectStandard
 
 - HTML5
+  - [标签语义化](#标签语义化)
 - CSS
   - [CSS样式命名](#CSS样式命名)
   - [CSS文件命名](#CSS文件命名)
 - Javascript
+  - [TEST](#TEST)
+### 标签语义化
+> 标签语义化
 
 ---
 ### CSS样式命名
+
+> 一般性CSS样式类名命名规则
 
 |网页公共命名||网页公共命名||
 |:--|:--|:--|:--|
@@ -40,36 +46,13 @@
 |siteinfo|网站信息|btn-danger|危险按钮
 |siteinfoLegal|法律声明|btn-warning|警告按钮
 |siteinfoCredits|信誉|btn-ghost|透明按钮
-|joinus|加入我们|
-|partner|合作伙伴|
-|service|服务|
-|regsiter|注册|
-|arrow|箭头|
-|guild|指南|
-|sitemap|网站地图|
-|list|列表|
-|homepage|首页|
-|subpage|二级页面子页面|
-|toolbar|工具条|
-|drop|下拉|
-|dorpmenu|下拉菜单|
-|status|状态|
-|scroll|滚动|
-|news|新闻|
-|download|下载|
-|banner|广告条(顶部广告条)|
-|products|产品|
-|productsPrices|产品价格|
-|productsDescription|产品描述|
-|productsReview|产品评论|
-|editorReview|编辑评论|
-|newsRelease|产品价格|
-|productsPrices|产品价格|
-|publisher|生产商|
-|screenshot|缩略图|
-|faqs|常见问题|
-|blog|博客|
-|forum|论坛|
+|list|列表|dorpmenu|下拉菜单|
+|homepage|首页|status|状态|
+|subpage|二级页面子页面|scroll|滚动|
+|toolbar|工具条|download|下载|
+|drop|下拉|banner|广告条(顶部广告条)|
+|screenshot|缩略图|faqs|常见问题|
+
 ---
 
 ### CSS文件命名
