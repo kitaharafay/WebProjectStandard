@@ -6,7 +6,7 @@
   - [CSS样式命名](#CSS样式命名)
   - [CSS文件命名](#CSS文件命名)
 - Javascript
-  - [TEST](#TEST)
+  - [CommonJS](#CommonJS)
 ### 标签语义化
 > 标签语义化
 
@@ -80,7 +80,7 @@
 
 > 其他类型CSS文件命名规则
 
-### 例子
+### 其他
 
 - http://codeguide.bootcss.com
 
