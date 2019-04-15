@@ -88,6 +88,9 @@
 |columns.css|专栏|
 |print.css|打印|
 
+> 其他类型CSS文件命名规则
+
+
 
 
 
