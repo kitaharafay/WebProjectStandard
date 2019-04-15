@@ -53,6 +53,12 @@
 |drop|下拉|banner|广告条(顶部广告条)|
 |screenshot|缩略图|faqs|常见问题|
 
+> 功能性CSS样式类名命名规则
+
+|功能性命名||功能性命名||
+|:--|:--|:--|:--|
+|product|产品|3|4
+
 ---
 
 ### CSS文件命名
@@ -66,12 +72,19 @@
 |layout.css|布局，版面|
 |themes.css|主题|
 |font.css|文字、字体|
+|color.css|颜色管理
 |forms.css|表单|
 |mend.css|补丁|
 |columns.css|专栏|
 |print.css|打印|
 
 > 其他类型CSS文件命名规则
+
+### 例子
+
+- http://codeguide.bootcss.com
+
+
 
 
 
